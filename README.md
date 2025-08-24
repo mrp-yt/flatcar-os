@@ -22,7 +22,7 @@ wget -O butane https://github.com/coreos/butane/releases/latest/download/butane-
 # Convert X.yaml to X.ign
 
 ```
-./butan flatcar.yaml > flatcar.ign
+./butane flatcar.yaml > flatcar.ign
 ```
 
 # Install Flatcar
